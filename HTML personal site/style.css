@@ -1,0 +1,50 @@
+img {
+  border-top-left-radius: 40%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 70%;
+  border-color: #23E177;
+  padding-right: 50px;
+}
+
+body {
+  font-family: 'Redressed', cursive;
+  color: rgb(158, 159, 158);
+  background-color: rgb(0, 18, 24);
+}
+
+hr {
+  border-color: rgb(84, 176, 136);
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:8px;
+  height: 0px;
+}
+
+a {
+  color:#43AB79 ;
+}
+a:hover{
+  color:#166A44;
+}
+h1{
+  color:#43AB79;
+}
+h2{
+  color:#43AB79 ;
+}
+
+.name {
+  padding-right: 10px;
+}
+
+.email {
+  padding-right: 43px;
+}
+
+.info {
+  padding-right: 53px;
+}
+
+.submit {}
